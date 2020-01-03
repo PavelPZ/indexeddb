@@ -1,2 +1,2 @@
-# indexeddb
- Idea for cross platform dart:indexeddb
+# indexed_db
+ Idea for cross platform dart:indexed_db
