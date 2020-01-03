@@ -1,0 +1,19 @@
+name: indexeddb
+description: indexeddb
+
+environment:
+  sdk: ^2.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  idb_shim: '>=1.9.0-dev.1'
+  idb_sqflite:
+    
+dev_dependencies:
+  flutter_test: 
+    sdk: flutter
+  test: 
+  build_runner:
+  build_test: 
+  build_web_compilers:
